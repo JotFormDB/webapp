@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.06014f4f.css",
+    "main.css": "./static/css/main.6411b25b.css",
     "main.js": "./static/js/main.e39cc70d.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
     "static/media/background.jpg": "./static/media/background.b5de6183c76e367ee3cf.jpg",
@@ -8,12 +8,12 @@
     "static/media/Setsco_Logo.png": "./static/media/Setsco_Logo.5225e987de3e82ecc092.png",
     "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "./index.html",
-    "main.06014f4f.css.map": "./static/css/main.06014f4f.css.map",
+    "main.6411b25b.css.map": "./static/css/main.6411b25b.css.map",
     "main.e39cc70d.js.map": "./static/js/main.e39cc70d.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06014f4f.css",
+    "static/css/main.6411b25b.css",
     "static/js/main.e39cc70d.js"
   ]
 }
