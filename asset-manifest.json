@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.15b7ada8.css",
-    "main.js": "./static/js/main.12afc202.js",
+    "main.js": "./static/js/main.25e4798b.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
     "static/media/background.jpg": "./static/media/background.b5de6183c76e367ee3cf.jpg",
     "static/media/Vicom_Logo_New.png": "./static/media/Vicom_Logo_New.34d5bab3fbb38bcadc88.png",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "./index.html",
     "main.15b7ada8.css.map": "./static/css/main.15b7ada8.css.map",
-    "main.12afc202.js.map": "./static/js/main.12afc202.js.map",
+    "main.25e4798b.js.map": "./static/js/main.25e4798b.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15b7ada8.css",
-    "static/js/main.12afc202.js"
+    "static/js/main.25e4798b.js"
   ]
 }
